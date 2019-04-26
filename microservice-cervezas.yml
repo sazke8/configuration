@@ -8,3 +8,27 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
+      
+      
+cervezas:
+  1:
+    nombre: Cerveza
+    descripcion: Cerveza oscura Victoria Vickychelada 4 latas de 473 ml c/u
+    precio: 50.0
+  2:
+    nombre: Cerveza
+    descripcion: Cerveza clara Modelo Especial 6 botellas de 355 ml c/u
+    precio: 96.0
+  3: 
+    nombre: Cerveza
+    descripcion: Cerveza clara Corona Extra 12 botellas de 355 ml c/u
+    precio: 156.0
+  4:
+    nombre: Cerveza
+    descripcion: Cerveza clara Modelo especial 4 latas de 473 ml c/u
+    precio: 50.0
+  5:
+    nombre: Cerveza
+    descripcion: Cerveza clara Modelo especial 6 latas de 473 ml c/u
+    precio: 60.0
+    
