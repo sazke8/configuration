@@ -27,8 +27,5 @@ cervezas:
     nombre: Cerveza
     descripcion: Cerveza clara Modelo especial 4 latas de 473 ml c/u
     precio: 50.0
-  5:
-    nombre: Cerveza
-    descripcion: Cerveza clara Modelo especial 6 latas de 473 ml c/u
-    precio: 60.0
+
     
